@@ -10,5 +10,8 @@ This plugin requires GFL's Core [plugin](https://github.com/GFLClan/SM-Core) to 
 * `sm_gflsql_retryvalue` => How often to retry the database connection if down in seconds (default `30`).
 * `sm_gflsql_debug` => Whether to enable verbose logging within the plugin (default `0`).
 
+## Other
+The `tables.sql` file can be imported into the MySQL database. This adds the necessary tables and data for sub-plugins using this module.
+
 ## Credits
 * [Christian Deacon](https://www.linkedin.com/in/christian-deacon-902042186/) - Creator
