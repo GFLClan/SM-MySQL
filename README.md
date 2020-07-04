@@ -3,7 +3,7 @@
 GFL's MySQL plugin that handles the database connection to the MySQL server.
 
 ## Requirements
-This plugin requires GFL's Core [plugin](https://github.com/GFLClan/SM-Core) to be added to the game server and enabled.
+* [GFL Core](https://github.com/GFLClan/SM-Core) - The core of the GFL SourceMod plugins and includes useful natives for logging purposes.
 
 ## ConVars
 * `sm_gflsql_name` => The key name to the array providing the MySQL database details in `configs/databases.cfg` (default `"gflmysql"`).
