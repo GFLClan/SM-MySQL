@@ -15,3 +15,4 @@ The `tables.sql` file can be imported into the MySQL database. This adds the nec
 
 ## Credits
 * [Christian Deacon](https://www.linkedin.com/in/christian-deacon-902042186/) - Creator
+* [Blueberry](https://github.com/Blueberryy) - Russian translation file.
